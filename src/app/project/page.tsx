@@ -1,6 +1,5 @@
 "use client"
-import LensDemoThird from "@/components/lensCard";
-
+import LensProject from "@/components/projectCard";
 
 export default function ProjectPage() {
   return (
@@ -9,7 +8,7 @@ export default function ProjectPage() {
     <h1 className="text-5xl text-shadow-1 text-center font-bold my-8 sm:ml-0 md:ml-40">
              My Projects
             </h1>
-   < LensDemoThird />
+  <LensProject />
  
   </section>
 

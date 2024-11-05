@@ -156,13 +156,8 @@ export default function Skill2() {
                 Show Skill <FaArrowUp />
               </span>
             </button>
-            <Image
-              src={"/picture/bubble.png"}
-              alt="bubble"
-              width={50}
-              height={50}
-              className="bubble"
-            />
+            <Image src={"/picture/bubble.png"} alt="bubble"
+              width={50}  height={50}  className="bubble" />
           </div>
         </div>
       </section>
