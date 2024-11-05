@@ -6,6 +6,8 @@ import AboutPage from "./about/page";
 import ProjectPage from "./project/page";
 import ContactPage from "./contact/page";
 import { InfiniteMovingCardsDemo } from "@/components/peopleAboutUs";
+import Team from "./team/page";
+
 
 
 
@@ -19,8 +21,9 @@ export default function Home() {
       <SkillPage />
      <ProjectPage />
       <InfiniteMovingCardsDemo />
+      <Team />
       <ContactPage />
-      
+   
     </main>
   );
 }
