@@ -20,8 +20,8 @@ export default function Home() {
       <AboutPage />
       <SkillPage />
      <ProjectPage />
-      <InfiniteMovingCardsDemo />
       <Team />
+      <InfiniteMovingCardsDemo />
       <ContactPage />
    
     </main>

@@ -7,17 +7,18 @@ import Link from "next/link";
 export function OurTeam() {
   return (
     <>
-     <h1 className="text-5xl text-shadow-1 text-center font-bold my-8 sm:ml-0 md:ml-40">
+    <div>
+     <h1 className="text-5xl text-shadow-1 text-center font-bold my-8 sm:ml-0 md:ml-40 ">
             Our Team
             </h1>
-    <div className="max-w-full grid sm:grid-cols-1 md:grid-cols-3  my-10 sm:ml-20 md:ml-28">
+    <div className="max-w-full grid sm:grid-cols-1 md:grid-cols-3  my-20 sm:ml-20 md:ml-28 ">
    
     <div className="max-w-xs w-full group/card">
         
       <div
         className={cn(
           " cursor-pointer overflow-hidden relative card h-96 rounded-2xl shadow-xl  max-w-sm mx-auto backgroundImage flex flex-col justify-between p-4",
-          "bg-[url(/picture/team/)] bg-cover"
+          "bg-[url(/picture/team/a2.jpg)] bg-cover"
         )}
       >
         <div className="absolute w-full h-full top-0 left-0 transition duratio n-300 group-hover/card:bg-black opacity-60"></div>
@@ -128,6 +129,7 @@ export function OurTeam() {
      </div>
 
 
+    </div>
     </div>
     </>
   );
