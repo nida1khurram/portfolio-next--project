@@ -2,7 +2,7 @@ export const projectsData = [
     {
       id: 1,
       title: "Portfolio Next.js Css",
-      image: "/picture/project-pic/html-css-project.png",
+      image: "/picture/project-pic/portfolio.png",
       description: "Created Portfolio with next.js & css",
       url: "https://portfolio-css-knai.vercel.app/",
     },
@@ -31,14 +31,14 @@ export const projectsData = [
     {
       id: 5,
       title: "Countdown Timer",
-      image: "/picture/project-pic/count-down-timer.png",
+      image: "/picture/project-pic/countdown.png",
       description: "Created Counter project with next.js",
       url:"https://count-down-timer-knai.vercel.app/"
     },
     {
       id: 6,
       title: "Counter Project",
-      image: "/picture/project-pic/counter.png",
+      image: "/picture/project-pic/count.png",
       description: "Created Counter project with html & css",
       url:"https://counter-application-knai.vercel.app/"
     },
