@@ -45,7 +45,7 @@ export const projectsData = [
     {
       id: 7,
       title: "Palaindrome Project",
-      image: "/picture/project-pic/palaindrome.png",
+      image: "/picture/project-pic/pal.png",
       description: "Created Palaindrome project with html & css",
       url:"https://palindrome-knai.vercel.app/"
     },
@@ -66,7 +66,7 @@ export const projectsData = [
     {
       id: 10,
       title: "Periodic Table Project",
-      image: "/picture/project-pic/periodic.png",
+      image: "/picture/project-pic/table.png",
       description: "Created Periodic project with html & css",
       url:"https://assignment6-periodic-table.vercel.app/"
     }, 
