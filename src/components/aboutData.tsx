@@ -28,7 +28,7 @@ const content = [
     ),
   },
   {
-    title: "Excellence in Frontend Development: Design, Efficiency, and User Experience",
+    title:  "Excellence in Frontend Development: Design, Efficiency, and User Experience",
     description:
       " I have honed my skills in various aspects of frontend devel opment, including Responsive Design: Ensuring that websites look great on all devices, from desktops to smartphones.Performance Optimization: Crafting efficient code to enhance load times and user experience.Cross-Browser Compatibility: Making sure that all users have a consistent experience, regardless of their browser.",
     content: (
