@@ -24,7 +24,7 @@ export const projectsData = [
     {
       id: 4,
       title: "Hackathon Resume-4",
-      image: "/picture/project-pic/resume.jpg",
+      image: "/picture/project-pic/resume.png",
       description: "Created figma project with html & css",
       url:"https://milestone4-knai.vercel.app/"
     },
@@ -73,14 +73,14 @@ export const projectsData = [
     {
       id: 11,
       title: "Currency Converter",
-      image: "/picture/project-pic/currency-converter.jpg",
+      image: "/picture/project-pic/currency-converter.png",
       description: "Created project TypeScript/Node.js project",
       url:"https://github.com/nida1khurram/currency_converter"
     },
     {
       id: 12,
       title: "Colorful Number Guessing Game",
-      image: "/picture/project-pic/num-guess.jpg",
+      image: "/picture/project-pic/num-guess.png",
       description: "Created project TypeScript/Node.js project",
       url:"https://github.com/nida1khurram/num_guessing_game_color"
     },
@@ -94,28 +94,28 @@ export const projectsData = [
     {
       id: 14,
       title: "Todo List",
-      image: "/picture/project-pic/todo.jpg",
+      image: "/picture/project-pic/todo.png",
       description: "Created project TypeScript/Node.js project",
       url:"https://github.com/nida1khurram/todo_list"
     },
     {
       id: 15,
       title: "Word Counter",
-      image: "/picture/project-pic/word-count.jpg",
+      image: "/picture/project-pic/word-count.png",
       description: "Created project TypeScript/Node.js project",
       url:"https://github.com/nida1khurram/word_counter"
     },
     {
       id: 16,
       title: "OOP Assignment",
-      image: "/picture/project-pic/oop.jpg",
+      image: "/picture/project-pic/oop.png",
       description: "Created project TypeScript/Node.js project",
       url:"https://github.com/nida1khurram/Oop-assignment"
     },
     {
       id: 17,
       title: "Colorful Simple Calculator",
-      image: "/picture/project-pic/calculator.jpg",
+      image: "/picture/project-pic/calculator.png",
       description: "Created project TypeScript/Node.js project",
       url:"https://github.com/nida1khurram/color_simple_calculator"
     },
