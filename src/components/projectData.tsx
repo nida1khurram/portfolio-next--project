@@ -52,7 +52,7 @@ export const projectsData = [
     {
       id: 8,
       title: "Assignment-12 Project",
-      image: "/picture/project-pic/a-12.png",
+      image: "/picture/project-pic/a12.png",
       description: "Created project with html & css",
       url:"https://assignment-12-knai.vercel.app/"
     },
