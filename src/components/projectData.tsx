@@ -16,7 +16,7 @@ export const projectsData = [
     {
       id: 3,
       title: "Perfume Clone Website",
-      image: "/picture/project-pic/perfume.png",
+      image: "/picture/project-pic/p-pro.png",
       description: "Created my first project with next.js",
      url:"https://perfume-knai.vercel.app/"
     },
@@ -52,7 +52,7 @@ export const projectsData = [
     {
       id: 8,
       title: "Assignment-12 Project",
-      image: "/picture/project-pic/assignment-12.png",
+      image: "/picture/project-pic/a-12.png",
       description: "Created project with html & css",
       url:"https://assignment-12-knai.vercel.app/"
     },
@@ -87,7 +87,7 @@ export const projectsData = [
     {
       id: 13,
       title: "Atm Project",
-      image: "/picture/project-pic/atm.jpg",
+      image: "/picture/project-pic/atm.png",
       description: "Created project TypeScript/Node.js project",
       url:"https://github.com/nida1khurram/Project_atm"
     },
