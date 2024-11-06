@@ -17,7 +17,7 @@ export function OurTeam() {
       <div
         className={cn(
           " cursor-pointer overflow-hidden relative card h-96 rounded-2xl shadow-xl  max-w-sm mx-auto backgroundImage flex flex-col justify-between p-4",
-          "bg-[url(/picture/team/a2.jpg)] bg-cover"
+          "bg-[url(/picture/team/adnan.png)] bg-cover"
         )}
       >
         <div className="absolute w-full h-full top-0 left-0 transition duratio n-300 group-hover/card:bg-black opacity-60"></div>
