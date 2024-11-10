@@ -19,10 +19,10 @@ export function VortexDemoSecond() {
          <div className="container grid  md:grid-cols-2 items-center py-10 px-[10%] justify-center">
          <div className="sm:w-[200px] sm:h-[200px] md:w-[300px] md:h-[300px] mx-auto">
         <Image
-          width={300}
-          height={300}
+          width={200}
+          height={200}
           alt="logo"
-          src="/picture/girl.png"
+          src="/picture/hero.png"
           className=""
         />
         </div>

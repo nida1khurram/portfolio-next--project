@@ -80,7 +80,7 @@ export function OurTeam() {
           <p className="font-normal text-sm text-gray-50 relative z-10 my-4">
           Creating user-friendly web apps & focused on responsive design.
           </p>
-          <p className="text-blue-300"><Link href={'/'}>view Profile</Link></p>
+          <p className="text-blue-300"><Link href={'https://abdul-rehman-portfolio-theta.vercel.app/'}>view Profile</Link></p>
         </div>  
       </div>
 
@@ -120,7 +120,7 @@ export function OurTeam() {
            <p className="font-normal text-sm text-gray-50 relative z-10 my-4">
            Designing intuitive interfaces to enhance user experiences with elegant solutions.
            </p>
-           <p className="text-blue-300"><Link href={'https://custom-website-html-and-css.vercel.app/'}>view Profile</Link></p>
+           <p className="text-blue-300"><Link href={'https://rameez-portfolio-gold.vercel.app/'}>view Profile</Link></p>
          </div>
        </div>
  
