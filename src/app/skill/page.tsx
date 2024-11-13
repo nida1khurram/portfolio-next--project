@@ -1,5 +1,5 @@
 
-import SkillBubble from '@/components/skill-bubble'
+import SkillBubble from '@/components/skill/skill-bubble'
 
 export default function SkillPage() {
   return (

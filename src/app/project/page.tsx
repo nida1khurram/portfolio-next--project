@@ -1,5 +1,5 @@
 "use client"
-import LensProject from "@/components/projectCard";
+import LensProject from "@/components/project/projectCard";
 
 export default function ProjectPage() {
   return (

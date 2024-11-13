@@ -1,4 +1,4 @@
-import { OurTeam } from '@/components/team'
+import { OurTeam } from '@/components/team/team'
 import React from 'react'
 
 export default function Team() {
