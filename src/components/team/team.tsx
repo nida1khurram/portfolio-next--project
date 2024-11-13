@@ -11,7 +11,7 @@ export function OurTeam() {
           Our Team
         </h1>
         <div className="max-w-full grid sm:grid-cols-1 md:grid-cols-3 justify-center my-20 sm:ml-20 md:ml-28 ">
-          <div className="max-w-xs w-full group/card">
+          <div className="max-w-xs w-full group/card shadow-2xl shadow-white/50">
             <div
               className={cn(
                 " cursor-pointer overflow-hidden relative card h-96 rounded-2xl shadow-xl  max-w-sm mx-auto backgroundImage flex flex-col justify-between p-4",
@@ -19,7 +19,7 @@ export function OurTeam() {
               )}
             >
               <div className="absolute w-full h-full top-0 left-0 transition duratio n-300 group-hover/card:bg-black opacity-60"></div>
-              <div className="flex flex-row items-center space-x-4 z-10">
+              <div className="flex flex-row items-center space-x-4 z-10 " >
                 <Image
                   height="100"
                   width="100"
@@ -33,23 +33,25 @@ export function OurTeam() {
                   </p>
                 </div>
               </div>
-              <div className="text content">
+              <div className="text content ">
                 <h1 className="font-bold text-xl md:text-2xl text-gray-50 relative z-10">
                   Web Developer
                 </h1>
                 <p className="font-normal text-sm text-gray-50 relative z-10 my-4">
                   Passionate frontend & backend developer.
                 </p>
-                <p className="text-blue-300">
-                  <Link href={"https://madnan-portfolio.vercel.app/"}>
+               
+              </div>
+            </div>
+
+            <p className="text-[#027a6d] text-xl my-3 text-center">
+                  <Link href={"https://madnan-portfolio.vercel.app/"} target="_blank">
                     view Profile
                   </Link>
                 </p>
-              </div>
-            </div>
           </div>
           {/* 2 */}
-          <div className="max-w-xs w-full group/card">
+          <div className="max-w-xs w-full group/card shadow-2xl shadow-white/50">
             <div
               className={cn(
                 " cursor-pointer overflow-hidden relative card h-96 rounded-2xl shadow-xl  max-w-sm mx-auto backgroundImage flex flex-col justify-between p-4",
@@ -79,18 +81,25 @@ export function OurTeam() {
                   Creating user-friendly web apps & focused on responsive
                   design.
                 </p>
-                <p className="text-blue-300">
+                {/* <p className="text-blue-300">
                   <Link
                     href={"https://abdul-rehman-portfolio-theta.vercel.app/"}
                   >
                     view Profile
                   </Link>
-                </p>
+                </p> */}
               </div>
             </div>
+            <p className="text-[#027a6d] text-xl my-3 text-center">
+                  <Link
+                    href={"https://abdul-rehman-portfolio-theta.vercel.app/"}
+                  target="_blank">
+                    view Profile
+                  </Link>
+                </p>
           </div>
           {/* 3 */}
-          <div className="max-w-xs w-full group/card">
+          <div className="max-w-xs w-full group/card shadow-2xl shadow-white/50">
             <div
               className={cn(
                 " cursor-pointer overflow-hidden relative card h-96 rounded-2xl shadow-xl  max-w-sm mx-auto backgroundImage flex flex-col justify-between p-4",
@@ -118,17 +127,18 @@ export function OurTeam() {
                   UI/UX Designer
                 </h1>
                 <p className="font-normal text-sm text-gray-50 relative z-10 my-4">
-                  Designing intuitive interfaces to enhance user experiences
-                  with elegant solutions.
+                Passionate Designer
                 </p>
-                <p className="text-blue-300">
-                  <Link href={"https://rameez-portfolio-gold.vercel.app/"}>
-                    view Profile
-                  </Link>
-                </p>
+              
               </div>
             </div>
+             <p className="text-[#027a6d] text-xl my-3 text-center">
+                  <Link href={"https://rameez-portfolio-gold.vercel.app/"} target="_blank">
+                    View Profile
+                  </Link>
+                </p>
           </div>
+
         </div>
       </div>
     </>
