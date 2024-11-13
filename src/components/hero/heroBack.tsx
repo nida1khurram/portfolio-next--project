@@ -29,7 +29,7 @@ export function VortexDemoSecond() {
 
           <div className="  text-xl md:text-5xl text-[#000] hover:text-white text-shadow-1 font-bold   text-center mt-10">
             <h1 className="  text-xl md:text-5xl text-[#000] hover:text-white text-shadow-1 font-bold   text-center mt-10">
-              Hello, I'm
+              Hello&sbquo; I&#39;m
             </h1>
             <br />
             <Typewriter
