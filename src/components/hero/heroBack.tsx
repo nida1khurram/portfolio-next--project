@@ -22,7 +22,7 @@ export function VortexDemoSecond() {
               width={200}
               height={200}
               alt="logo"
-              src="/picture/hero/hero.png"
+              src="/picture/hero.png"
               className=""
             />
           </div>

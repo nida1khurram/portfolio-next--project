@@ -13,7 +13,7 @@ export default function Header() {
           width={100}
           height={100}
           alt="logo"
-          src={"/picture/hero/n1.png"}
+          src={"/picture/n1.png"}
           className="max-w-[200px] max-h-[200px]"
         />
 
