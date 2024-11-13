@@ -10,7 +10,7 @@ export function OurTeam() {
         <h1 className="text-5xl text-shadow-1 text-center font-bold my-8 sm:ml-0 md:ml-40 ">
           Our Team
         </h1>
-        <div className="max-w-full grid sm:grid-cols-1 md:grid-cols-3  my-20 sm:ml-20 md:ml-28 ">
+        <div className="max-w-full grid sm:grid-cols-1 md:grid-cols-3 justify-center my-20 sm:ml-20 md:ml-28 ">
           <div className="max-w-xs w-full group/card">
             <div
               className={cn(
