@@ -45,7 +45,7 @@ export default function Footer() {
             <SiGmail className="text-2xl hover:text-[#2ab4aa] " />
            
           </Link>
-          <span className="text-[#2ab4aa]">nidakhurramalvi9@gmail.com</span>
+          {/* <span className="text-[#2ab4aa]">nidakhurramalvi9@gmail.com</span> */}
         </span>
         {/* linkendin icon */}
       </div>
