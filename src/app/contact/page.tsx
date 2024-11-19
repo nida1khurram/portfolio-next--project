@@ -14,7 +14,9 @@ export default function ContactPage() {
             <h1 className="text-5xl text-shadow-1 font-bold my-8 sm:ml-0 md:ml-40">
               Contact Me
             </h1>
-            <form action="https://formspree.io/f/xpwzpyqo" method="POST">
+            <form  action="https://formspree.io/f/xzzbvela"
+                   method="POST"
+            >
               <div className=" p-2 w-1/2 flex-wrap">
                 <div className="relative ">
                   <label
@@ -27,7 +29,7 @@ export default function ContactPage() {
                     type="text"
                     id="name"
                     name="name"
-                    className="mb-2 sm:w-[100px] md:w-[500px] bg-[#f0f2f0] bg-opacity-50 rounded-full border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-[#42d9ce] py-2 px-5 leading-8 transition-colors duration-200 ease-in-out"
+                    className="mb-2 sm:w-[100px] md:w-[500px] bg-[#f0f2f0] bg-opacity-50 rounded-full border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-[#0b2c2a] py-2 px-5 leading-8 transition-colors duration-200 ease-in-out"
                     required
                   />
                 </div>
@@ -45,7 +47,7 @@ export default function ContactPage() {
                     type="email"
                     id="email"
                     name="email"
-                    className="mb-2 sm:w-[100px] md:w-[500px] bg-[#f0f2f0] bg-opacity-50 rounded-full border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-[#42d9ce] py-2 px-5 leading-8 transition-colors duration-200 ease-in-out"
+                    className="mb-2 sm:w-[100px] md:w-[500px] bg-[#f0f2f0] bg-opacity-50 rounded-full border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-[#0b2c2a] py-2 px-5 leading-8 transition-colors duration-200 ease-in-out"
                     required
                   />
                 </div>
@@ -63,7 +65,7 @@ export default function ContactPage() {
                     type="text"
                     id="subject"
                     name="subject"
-                    className="mb-2 sm:w-[90px] md:w-[500px] bg-[#f0f2f0] bg-opacity-50 rounded-full border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-[#42d9ce] py-2 px-5 leading-8 transition-colors duration-200 ease-in-out"
+                    className="mb-2 sm:w-[90px] md:w-[500px] bg-[#f0f2f0] bg-opacity-50 rounded-full border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-[#0b2c2a] py-2 px-5 leading-8 transition-colors duration-200 ease-in-out"
                     required
                   />
                 </div>
@@ -81,7 +83,7 @@ export default function ContactPage() {
                   <textarea
                     id="message"
                     name="message"
-                    className="mb-2 md:w-[500px] bg-[#f0f2f0] bg-opacity-50 rounded-2xl border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 h-32 text-base outline-none text-[#42d9ce] py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
+                    className="mb-2 md:w-[500px] bg-[#f0f2f0] bg-opacity-50 rounded-2xl border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 h-32 text-base outline-none text-[#0b2c2a] py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
                     defaultValue={""}
                     required
                   />

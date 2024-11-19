@@ -39,13 +39,13 @@ export default function Footer() {
           </Link>
           <Link
             target="_blank"
-            href={"https://myaccount.google.com/intro/signing-in-to-google"}
+            href={"/contact"}
             className="text-[#2ab4aa]"
           >
             <SiGmail className="text-2xl hover:text-[#2ab4aa] " />
            
           </Link>
-          <span className="text-[#2ab4aa]">nidakhurramedu@gmail.com</span>
+          <span className="text-[#2ab4aa]">nidakhurramalvi9@gmail.com</span>
         </span>
         {/* linkendin icon */}
       </div>
